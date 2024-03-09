@@ -1,0 +1,24 @@
+/* Write your code here. */
+.list-item {
+  list-style-type: none;
+  margin-bottom: 15px;
+  margin-right: 15px;
+}
+
+.button {
+  cursor: pointer;
+  background-color: #ffffff;
+  padding: 0;
+  border: none;
+  outline: none;
+}
+
+.image {
+  border-radius: 5px;
+}
+
+.hide-image {
+  width: 60px;
+  height: 60px;
+  opacity: 0.5;
+}
